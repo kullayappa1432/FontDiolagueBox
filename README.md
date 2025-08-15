@@ -7,6 +7,7 @@ The application fetches all installed fonts from the system and lists them for s
 Users can choose a font style (Regular, Bold, Italic, Bold Italic) and font size to see the effect in real-time.
 
 ---
+![Uploading font.PNG…]()
 
 ## 🖥 Features
 - List all installed fonts from the system.
