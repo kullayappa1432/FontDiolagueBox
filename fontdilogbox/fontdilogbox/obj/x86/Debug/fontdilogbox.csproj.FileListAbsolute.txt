@@ -1,0 +1,8 @@
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\bin\Debug\fontdilogbox.exe
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\bin\Debug\fontdilogbox.pdb
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\obj\x86\Debug\fontdilogbox.Form1.resources
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\obj\x86\Debug\fontdilogbox.Properties.Resources.resources
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\obj\x86\Debug\fontdilogbox.csproj.GenerateResource.Cache
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\obj\x86\Debug\fontdilogbox.exe
+c:\users\admin\downloads\documents\visual studio 2010\Projects\fontdilogbox\fontdilogbox\obj\x86\Debug\fontdilogbox.pdb
+C:\Users\admin\Downloads\Documents\Visual Studio 2010\Projects\fontdilogbox\fontdilogbox\obj\x86\Debug\fontdilogbox.csprojResolveAssemblyReference.cache
